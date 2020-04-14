@@ -36,3 +36,31 @@
     transform: rotate(360deg);
   }
 }
+
+.text-right{
+  float: right;
+  cursor: pointer;
+}
+.text-center{
+  text-align: center;
+}
+.mr-5 {
+    margin-right: 5px;
+}
+.ml-5 {
+    margin-left: 5px;
+}
+.mt-15{
+  margin-top: 15px;
+}
+.mb-10{
+  margin-bottom: 10px;
+}
+.sort_selected{
+  content: '\f00c';
+  font-family: FontAwesome;
+  font-weight: normal;
+  font-style: normal;
+  margin: 0px 0px 0px 10px;
+  display: inline;
+}
